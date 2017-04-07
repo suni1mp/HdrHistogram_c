@@ -35,7 +35,7 @@ src/CMakeFiles/
 src/CTestTestfile.cmake
 src/Makefile
 src/cmake_install.cmake
-src/libhdr_histogram.so
+#src/libhdr_histogram.so
 test/CMakeFiles/
 test/CTestTestfile.cmake
 test/Makefile
